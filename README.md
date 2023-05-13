@@ -1,5 +1,5 @@
 # sqlalchemy-challenge
-Module 10 - SQL Alchemy
+Module 10 - SQLAlchemy
 
 The purpose of this challenge is analyize weather patterns for Honolulu, Hawaii to determine the best time to visit for vacation. The take advantage of SQLAlchemy is fortunate that we have a .sqlite database file with all of the weather data we need to decide our preferred time to visit Honolulu.
 
